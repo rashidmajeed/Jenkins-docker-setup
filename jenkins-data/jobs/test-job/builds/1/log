@@ -1,0 +1,7 @@
+Started by user [8mha:////4Cz1nRnsNbjcEMMFsrUEqBuqIP+fW9O/2RmPxeXgB1jFAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZe/dLi1CL9otzErNTUFACHbL26wgAAAA==[0mRashid Majeed
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/test-job
+[test-job] $ /bin/sh -xe /tmp/jenkins10941245514232535968.sh
++ echo Hello Monster team is here
+Hello Monster team is here
+Finished: SUCCESS
